@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My Test Suite" preserve-order="true">
+    <test name="My Test">
+        <classes>
+            <class name="PetStoreAutomation.GetAvailablePetTest" />
+            <class name="PetStoreAutomation.PostAvailablePetTest" />
+            <class name="PetStoreAutomation.UpdatePetStatusTest" />
+            <class name="PetStoreAutomation.DeletePetTest" />
+        </classes>
+    </test>
+</suite>
