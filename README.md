@@ -7,7 +7,7 @@
 ### Rest Assured API Automation Guide with TestNg
 
 ### Features
-* TestNg.xml files has two separate suite for the getCocktail and getIngredients API.
+* TestNg.xml files is prepared in such a way that test will be run in order to verify the requirements
 * POM.xml has all the dependencies listed in order to run this project.
 * All code is written in Java.
 * Page Object design pattern implementation.
